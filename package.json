@@ -51,7 +51,7 @@
         "url": "https://github.com/edo92/Bundless-Cdk"
     },
     "publishConfig": {
-        "@edo1792:registry": "https://npm.pkg.github.com"
+        "@edo92:registry": "https://npm.pkg.github.com"
     },
     "keywords": [
         "bundler",
