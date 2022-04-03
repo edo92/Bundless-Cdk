@@ -59,6 +59,6 @@
         "simple bundler"
     ],
     "bin": {
-        "bundless": "./bin/index.js"
+        "bundless-cdk": "./bin/index.js"
     }
 }
