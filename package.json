@@ -1,5 +1,5 @@
 {
-    "version": "0.0.1",
+    "version": "0.0.2",
     "main": "dist/index.js",
     "author": "edo1792",
     "name": "bundless-cdk",
@@ -51,7 +51,7 @@
         "url": "https://github.com/edo92/Bundless-Cdk"
     },
     "publishConfig": {
-        "@edo92:registry": "https://npm.pkg.github.com"
+        "@edo1792:registry": "https://npm.pkg.github.com"
     },
     "keywords": [
         "bundler",
