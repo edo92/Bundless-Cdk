@@ -48,7 +48,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/edo92/Bundless-Core"
+        "url": "https://github.com/edo92/Bundless-Cdk"
     },
     "publishConfig": {
         "@edo92:registry": "https://npm.pkg.github.com"
