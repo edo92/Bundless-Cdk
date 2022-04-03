@@ -1,0 +1,13 @@
+*.log
+.DS_Store
+DS_Store
+node_modules
+yarn.lock
+package-lock.json
+nodeWifiConnect.xml
+.env
+.bin
+test
+.github
+package-lock.json
+.example.env
